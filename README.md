@@ -7,7 +7,7 @@ Signed catalog for downloadable generation providers. A publisher can ship separ
 | [Flow Google](https://github.com/2noScript/sp-gen-flow-google) | FLOW_GOOGLE | 0.1.2 preview |
 | [Vibes](https://github.com/2noScript/sp-gen-vibes) | VIBES | 0.1.2 preview |
 
-[Download SDK](https://github.com/2noScript/script-pro-generation-sdk/releases/tag/v0.1.1). The SDK is distributed as a GitHub release tarball; it is not yet published to npm.
+[Download SDK](https://github.com/2noScript/sp-gen-sdk/releases/tag/v0.1.1). The SDK is distributed as a GitHub release tarball; it is not yet published to npm.
 
 The catalog is signed with Ed25519. Script-Pro ships the public verification key. Installers verify the catalog signature, exact package manifest, and SHA-256 before executing a bundle. The signing private key stays outside this repository.
 
