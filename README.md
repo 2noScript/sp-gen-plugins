@@ -4,8 +4,8 @@ Signed catalog for downloadable generation providers. A publisher can ship separ
 
 | Plugin | Provider | Release |
 | --- | --- | --- |
-| [Flow Google](https://github.com/2noScript/sp-gen-flow-google) | FLOW_GOOGLE | 0.1.1 preview |
-| [Vibes](https://github.com/2noScript/sp-gen-vibes) | VIBES | 0.1.1 preview |
+| [Flow Google](https://github.com/2noScript/sp-gen-flow-google) | FLOW_GOOGLE | 0.1.2 preview |
+| [Vibes](https://github.com/2noScript/sp-gen-vibes) | VIBES | 0.1.2 preview |
 
 [Download SDK](https://github.com/2noScript/script-pro-generation-sdk/releases/tag/v0.1.1). The SDK is distributed as a GitHub release tarball; it is not yet published to npm.
 
